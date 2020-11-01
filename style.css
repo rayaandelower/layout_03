@@ -1,0 +1,92 @@
+*{
+    margin:0;
+    padding:0;
+    
+  }
+  .head2{
+    overflow: hidden;
+    border: 5px solid yellow;
+    
+    
+  }
+  .head3{
+    height: 80px;
+    background-color: #7D733B;
+   width:50%;
+   float: left;
+   border: 3px solid #257106;
+    
+  }
+  .head4{
+    height:80px;
+    background-color:#1B7766;
+    width:49%;
+    float: right;
+    border:5px solid #FF0F0F;
+    
+  }
+  
+  
+  .Head1{
+     height: 100px;
+    background-color:red;
+    border: 5px solid #4C05F0;
+    
+   
+  }
+  .Head{
+    overflow: hidden;
+    border:5px solid #D6FF17;
+  }
+  .contact{
+    height:150px;
+    background-color: green;
+    width:33%;
+    float: left;
+    border:3px solid #B01991;
+    
+  }
+  .blog{
+    
+    height:150px;
+    background-color: skyblue;
+    width:33%;
+    float: left;
+    border:3px solid #3767AF;
+    
+    
+  }
+  .box{
+     height:150px;
+    background-color: black;
+    width: 33%;
+    float:left;
+    border: 3px solid#0AFFB0;
+  }
+  
+  .service{
+    
+    overflow: hidden;
+    border: 5px solid #FF0060;
+  }
+  .service1{
+    height:150px;
+    background-color:#528C26;
+    width:49%;
+    float: right;
+    border: 5px solid #4B10F6;
+  }
+  .service2{
+    height:150px;
+    background-color:#2098A1;
+    width:50%;
+    float:left;
+    border:4px solid #A86303;
+    
+  }
+  .footer{
+    
+    height: 100px;
+    background-color:#4F0082;
+    border:5px solid #00FFD3;
+   
